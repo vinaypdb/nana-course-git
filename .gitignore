@@ -1,0 +1,19 @@
+# Ignore Python compiled files
+*.pyc
+__pycache__/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore environment files
+.env
+
+# Ignore logs
+*.log
+
+# Ignore build/ folder
+build/
+
+# Ignore all .zip files
+*.zip
+
